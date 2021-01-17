@@ -6,3 +6,5 @@ Minha versão do Joguinho do Dinossauro
 Neste Projeto apliquei conceitos de setTimeout, setInterval e funções em geral.
 
 Com pesquisa no StackOverflow e MDN WebDocs consegui criar um sistema de pontuação genérico.
+
+Conceito de hoisting aplicado no sistema de pontuação.
